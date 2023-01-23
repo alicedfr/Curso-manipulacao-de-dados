@@ -1,1 +1,1 @@
-# Curso-manipulacao-de-dados
+# Curso-visualizacao-de-dados
